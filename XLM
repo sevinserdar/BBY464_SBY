@@ -1,0 +1,93 @@
+<CATALOG>
+
+<Movie>
+<TITLE>The Shawshank Redemption</TITLE>
+<Director>Frank Darabont</Director>
+<COUNTRY>United States</COUNTRY>
+<Time>2h 22m</Time>
+<IMDB>9.3</IMDB>
+<YEAR>1994</YEAR>
+</Movie>
+
+<Movie>
+<TITLE>The Godfather</TITLE>
+<Director>Francis Ford Coppola</Director>
+<COUNTRY>United States</COUNTRY>
+<Time>2h 55m</Time>
+<IMDB>9.2</IMDB>
+<YEAR>1972</YEAR>
+</Movie>
+
+<Movie>
+<TITLE>The Dark Knight</TITLE>
+<Director>Christopher Nolan</Director>
+<COUNTRY>United States,"-" United Kingdom</COUNTRY>
+<Time>2h 32m</Time>
+<IMDB>9.1</IMDB>
+<YEAR>2008</YEAR>
+</Movie>
+
+<Movie>
+<TITLE>12 Angry Men</TITLE>
+<Director>Sidney Lumet</Director>
+<COUNTRY>United States</COUNTRY>
+<Time>1h 36m</Time>
+<IMDB>9.0</IMDB>
+<YEAR>1957</YEAR>
+</Movie>
+
+<Movie>
+<TITLE>Schindler's List</TITLE>
+<Director>Steven Spielberg</Director>
+<COUNTRY>United States</COUNTRY>
+<Time>3h 15m</Time>
+<IMDB>9.0</IMDB>
+<YEAR>1993</YEAR>
+</Movie>
+
+<Movie>
+<TITLE>The Lord of the Rings: The Return of the King</TITLE>
+<Director>Peter Jackson</Director>
+<COUNTRY>New Zealand,"-" United States</COUNTRY>
+<Time>3h 21m</Time>
+<IMDB>9.0</IMDB>
+<YEAR>2003</YEAR>
+</Movie>
+
+<Movie>
+<TITLE>Pulp Fiction</TITLE>
+<Director>Quentin Tarantino</Director>
+<COUNTRY>United States</COUNTRY>
+<Time>2h 34m</Time>
+<IMDB>8.9</IMDB>
+<YEAR>1994</YEAR>
+</Movie>
+
+<Movie>
+<TITLE>The Good, the Bad and the Ugly</TITLE>
+<Director>Sergio Leone</Director>
+<COUNTRY>Italy,"-" Spain,"-" West Germany</COUNTRY>
+<Time>2h 58m</Time>
+<IMDB>8.8</IMDB>
+<YEAR>1966</YEAR>
+</Movie>
+
+<Movie>
+<TITLE>Forrest Gump</TITLE>
+<Director>Robert Zemeckis</Director>
+<COUNTRY>United States</COUNTRY>
+<Time>2h 22m</Time>
+<IMDB>8.8</IMDB>
+<YEAR>1994</YEAR>
+</Movie>
+
+<Movie>
+<TITLE>Fight Club</TITLE>
+<Director>David Fincher</Director>
+<COUNTRY>United States,"-" Germany</COUNTRY>
+<Time>2h 19m</Time>
+<IMDB>8.8</IMDB>
+<YEAR>1999</YEAR>
+</Movie>
+
+</CATALOG>
