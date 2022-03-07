@@ -5,107 +5,111 @@
       <meta charset="utf-8">
       <title>Movies</title>
   </head>
-  
+ 
+<body>
+
 <Movies>
 
     <Movie>
-        <TITLE>The Shawshank Redemption</TITLE>
-        <Director>Frank Darabont</Director>
-        <COUNTRY>United States</COUNTRY>
-        <Time>2h 22m</Time>
-        <IMDB>9.3</IMDB>
-        <YEAR>1994</YEAR>
-        <url>https://www.imdb.com/title/tt0111161/</url>
+        <p><name><h3>The Shawshank Redemption</h3></name></p>
+        <p><Director>Frank Darabont</Director></p>
+        <p><COUNTRY>United States</COUNTRY></p>
+        <p><Time>2h 22m</Time></p>
+        <p><IMDB>9.3</IMDB></p>
+        <p><YEAR>1994</YEAR></p>
+        <p><url>https://www.imdb.com/title/tt0111161/</url></p>
     </Movie>
-
+<br><hr>
     <Movie>
-        <TITLE>The Godfather</TITLE>
-        <Director>Francis Ford Coppola</Director>
-        <COUNTRY>United States</COUNTRY>
-        <Time>2h 55m</Time>
-        <IMDB>9.2</IMDB>
-        <YEAR>1972</YEAR>
-        <url>https://www.imdb.com/title/tt0068646/</url>
+        <p><name><h3>The Godfather</h3></name></p>
+        <p><Director>Francis Ford Coppola</Director></p>
+        <p><COUNTRY>United States</COUNTRY></p>
+        <p><Time>2h 55m</Time></p>
+        <p><IMDB>9.2</IMDB></p>
+        <p><YEAR>1972</YEAR></p>
+        <p><url>https://www.imdb.com/title/tt0068646/</url></p>
     </Movie>
-
+<br><hr>
     <Movie>
-        <TITLE>The Dark Knight</TITLE>
-        <Director>Christopher Nolan</Director>
-        <COUNTRY>United States,"-" United Kingdom</COUNTRY>
-        <Time>2h 32m</Time>
-        <IMDB>9.1</IMDB>
-        <YEAR>2008</YEAR>
-        <url>https://www.imdb.com/title/tt0468569/</url>
+        <p><name><h3>The Dark Knight</h3></name></p>
+        <p><Director>Christopher Nolan</Director></p>
+        <p><COUNTRY>United States, United Kingdom</COUNTRY></p>
+        <p><Time>2h 32m</Time></p>
+        <p><IMDB>9.1</IMDB></p>
+        <p><YEAR>2008</YEAR></p>
+        <p><url>https://www.imdb.com/title/tt0468569/</url></p>
     </Movie>
-
+<br><hr>
     <Movie>
-        <TITLE>12 Angry Men</TITLE>
-        <Director>Sidney Lumet</Director>
-        <COUNTRY>United States</COUNTRY>
-        <Time>1h 36m</Time>
-        <IMDB>9.0</IMDB>
-        <YEAR>1957</YEAR>
-        <url>https://www.imdb.com/title/tt0050083/</url>
+        <p><name><h3>12 Angry Men</h3></name></p>
+        <p><Director>Sidney Lumet</Director></p>
+        <p><COUNTRY>United States</COUNTRY></p>
+        <p><Time>1h 36m</Time></p>
+        <p><IMDB>9.0</IMDB></p>
+        <p><YEAR>1957</YEAR></p>
+        <p><url>https://www.imdb.com/title/tt0050083/</url></p>
    </Movie>
-
+<br><hr>
     <Movie>
-        <TITLE>Schindler's List</TITLE>
-        <Director>Steven Spielberg</Director>
-        <COUNTRY>United States</COUNTRY>
-        <Time>3h 15m</Time>
-        <IMDB>9.0</IMDB>
-        <YEAR>1993</YEAR>
-        <url>https://www.imdb.com/title/tt0108052/</url>
+        <p><name><h3>Schindler's List</h3></name></p>
+        <p><Director>Steven Spielberg</Director></p>
+        <p><COUNTRY>United States</COUNTRY></p>
+        <p><Time>3h 15m</Time></p>
+        <p><IMDB>9.0</IMDB></p>
+        <p><YEAR>1993</YEAR></p>
+        <p><url>https://www.imdb.com/title/tt0108052/</url></p>
     </Movie>
-
+<br><hr>
     <Movie>
-        <TITLE>The Lord of the Rings: The Return of the King</TITLE>
-        <Director>Peter Jackson</Director>
-        <COUNTRY>New Zealand,"-" United States</COUNTRY>
-        <Time>3h 21m</Time>
-        <IMDB>9.0</IMDB>
-        <YEAR>2003</YEAR>
-        <url>https://www.imdb.com/title/tt0167260/</url>
+        <p><name><h3>The Lord of the Rings: The Return of the King</h3></name></p>
+        <p><Director>Peter Jackson</Director></p>
+        <p><COUNTRY>New Zealand, United States</COUNTRY></p>
+        <p><Time>3h 21m</Time></p>
+        <p><IMDB>9.0</IMDB></p>
+        <p><YEAR>2003</YEAR></p>
+        <p><url>https://www.imdb.com/title/tt0167260/</url></p>
     </Movie>
-
+<br><hr>
     <Movie>
-        <TITLE>Pulp Fiction</TITLE>
-        <Director>Quentin Tarantino</Director>
-        <COUNTRY>United States</COUNTRY>
-        <Time>2h 34m</Time>
-        <IMDB>8.9</IMDB>
-        <YEAR>1994</YEAR>
-        <url>https://www.imdb.com/title/tt0110912/</url>
+        <p><name><h3>Pulp Fiction</h3></name></p>
+        <p><Director>Quentin Tarantino</Director></p>
+        <p><COUNTRY>United States</COUNTRY></p>
+        <p><Time>2h 34m</Time></p>
+        <p><IMDB>8.9</IMDB></p>
+        <p><YEAR>1994</YEAR></p>
+        <p><url>https://www.imdb.com/title/tt0110912/</url></p>
     </Movie>
-
+<br><hr>
     <Movie>
-        <TITLE>The Good, the Bad and the Ugly</TITLE>
-        <Director>Sergio Leone</Director>
-        <COUNTRY>Italy,"-" Spain,"-" West Germany</COUNTRY>
-        <Time>2h 58m</Time>
-        <IMDB>8.8</IMDB>
-        <YEAR>1966</YEAR>
-        <url>https://www.imdb.com/title/tt0060196/</url>
+        <p><name><h3>The Good, the Bad and the Ugly</h3></name></p>
+        <p><Director>Sergio Leone</Director></p>
+        <p><COUNTRY>Italy, Spain, West Germany</COUNTRY></p>
+        <p><Time>2h 58m</Time></p>
+        <p><IMDB>8.8</IMDB></p>
+        <p><YEAR>1966</YEAR></p>
+        <p><url>https://www.imdb.com/title/tt0060196/</url></p>
     </Movie>
-
+<br><hr>
     <Movie>
-        <TITLE>Forrest Gump</TITLE>
-        <Director>Robert Zemeckis</Director>
-        <COUNTRY>United States</COUNTRY>
-        <Time>2h 22m</Time>
-        <IMDB>8.8</IMDB>
-        <YEAR>1994</YEAR>
-        <url>https://www.imdb.com/title/tt0109830/</url>
+        <p><name><h3>Forrest Gump</h3></name></p>
+        <p><Director>Robert Zemeckis</Director></p>
+        <p><COUNTRY>United States</COUNTRY></p>
+        <p><Time>2h 22m</Time></p>
+        <p><IMDB>8.8</IMDB></p>
+        <p><YEAR>1994</YEAR></p>
+        <p><url>https://www.imdb.com/title/tt0109830/</url></p>
     </Movie>
-
+<br><hr>
     <Movie>
-        <TITLE>Fight Club</TITLE>
-        <Director>David Fincher</Director>
-        <COUNTRY>United States,"-" Germany</COUNTRY>
-        <Time>2h 19m</Time>
-        <IMDB>8.8</IMDB>
-        <YEAR>1999</YEAR>
-        <url>https://www.imdb.com/title/tt0137523/</url>
+        <p><name><h3>Fight Club</h3></name></p>
+        <p><Director>David Fincher</Director></p>
+        <p><COUNTRY>United States, Germany</COUNTRY></p>
+        <p><Time>2h 19m</Time></p>
+        <p><IMDB>8.8</IMDB></p>
+        <p><YEAR>1999</YEAR></p>
+        <p><url>https://www.imdb.com/title/tt0137523/</url></p>
     </Movie>
 
 </Movies>
+
+</body>
