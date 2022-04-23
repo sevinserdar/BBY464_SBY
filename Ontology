@@ -1,0 +1,424 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="urn:webprotege:ontology:f852d0a1-7145-4254-89f6-137bda3bb662#"
+     xml:base="urn:webprotege:ontology:f852d0a1-7145-4254-89f6-137bda3bb662"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="urn:webprotege:ontology:f852d0a1-7145-4254-89f6-137bda3bb662"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/creator -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/creator"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/date -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/date"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/identifier -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/identifier"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/language -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/language"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/publisher -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/publisher"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7OtS4mBLgYVEprBU1DaPBk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7OtS4mBLgYVEprBU1DaPBk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RvzbeRQGncodyksx4lw8ge"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emily St. John Mandel</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">804172447</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Station Eleven</dc:title>
+        <rdfs:label xml:lang="en">Station Eleven by Emily St. John Mandel</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.amazon.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7mbsODIYm6aTSR5Nhxw9r4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7mbsODIYm6aTSR5Nhxw9r4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBACxvPHACmGjbyPImi6tOr"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Suzanne Collins</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2008</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">439023483</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scholastic Press</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Hunger Games</dc:title>
+        <rdfs:label xml:lang="en">The Hunger Games by Suzanne Collins</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8FoOiw6juP4huNxaewo7kh -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8FoOiw6juP4huNxaewo7kh">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RtnNN8srM88B4FlSSvjC9h"/>
+        <rdfs:label xml:lang="en">Space Opera</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8FytUq3hfUAr3qHeAmJqg6 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8FytUq3hfUAr3qHeAmJqg6">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB5xkqhfn8XhRglL3iIQaxz"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ursula K. Le Guin</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9780441478125</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ace</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Left Hand of Darkness</dc:title>
+        <rdfs:label xml:lang="en">The Left Hand of Darkness by Ursula K. Le Guin</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8OgYXTRbWzbtmLkdeNcRxB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8OgYXTRbWzbtmLkdeNcRxB">
+        <rdfs:label xml:lang="en">Books</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8zyWPfSauf1FtdKLKhKeqK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8zyWPfSauf1FtdKLKhKeqK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RvzbeRQGncodyksx4lw8ge"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dean Koontz</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2022</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1542019885</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thomas &amp; Mercer</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quicksilver</dc:title>
+        <rdfs:label xml:lang="en">Quicksilver by Dean Koontz</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.amazon.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9xuQsxtWnDIk1vCNMLFByw -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9xuQsxtWnDIk1vCNMLFByw">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8FoOiw6juP4huNxaewo7kh"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maurice Broaddus</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2022</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1250264936</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tor Books</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sweep of Stars</dc:title>
+        <rdfs:label xml:lang="en">Sweep of Stars by Maurice Broaddus</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB5xkqhfn8XhRglL3iIQaxz -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB5xkqhfn8XhRglL3iIQaxz">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RtnNN8srM88B4FlSSvjC9h"/>
+        <rdfs:label xml:lang="en">Soft Sci-fi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBACxvPHACmGjbyPImi6tOr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBACxvPHACmGjbyPImi6tOr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RtnNN8srM88B4FlSSvjC9h"/>
+        <rdfs:label xml:lang="en">Apocalyptic Dystopian Sci Fi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBFKQ4vGANkCxWwUirQqNXc -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBFKQ4vGANkCxWwUirQqNXc">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RtnNN8srM88B4FlSSvjC9h"/>
+        <rdfs:label xml:lang="en">Cyberpunk Science Fiction</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCDmfezJaMfKfEDiUI3GA26 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCDmfezJaMfKfEDiUI3GA26">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBACxvPHACmGjbyPImi6tOr"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Margaret Atwood</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99740915</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anchor Books</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Handmaid&apos;s Tale</dc:title>
+        <rdfs:label xml:lang="en">The Handmaid&apos;s Tale by Margaret Atwood</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCHr3TWBRAjAnR3hqTkYiMF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCHr3TWBRAjAnR3hqTkYiMF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8FoOiw6juP4huNxaewo7kh"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orson Scott Card</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">812550706</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tor</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ender’s Game</dc:title>
+        <rdfs:label xml:lang="en">Ender’s Game by Orson Scott Card</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com/"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCVcGIX0Sr5LgSbI2Z8nvET -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCVcGIX0Sr5LgSbI2Z8nvET">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBACxvPHACmGjbyPImi6tOr"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cormac McCarthy</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">307265439</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alfred A. Knopf</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Road</dc:title>
+        <rdfs:label xml:lang="en">The Road by Cormac McCarthy</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCmvBk8VrBbUaJXPXL0MsAl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCmvBk8VrBbUaJXPXL0MsAl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBACxvPHACmGjbyPImi6tOr"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Veronica Roth</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62024035</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katherine Tegen Books</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Divergent 1</dc:title>
+        <rdfs:label xml:lang="en">Divergent by Veronica Roth</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com/"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RD1oAIz4zSIUKzjHSl8JVcw -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RD1oAIz4zSIUKzjHSl8JVcw">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB5xkqhfn8XhRglL3iIQaxz"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frank Herbert</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2019</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">059309932X</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ace Books</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dune</dc:title>
+        <rdfs:label xml:lang="en">Dune by Frank Herbert</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDScAeHP25FOC3GiXgqcYJg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDScAeHP25FOC3GiXgqcYJg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB5xkqhfn8XhRglL3iIQaxz"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lois Lowry</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">385732554</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ember</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Giver 1</dc:title>
+        <rdfs:label xml:lang="en">The Giver by Lois Lowry</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com/"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDsp6Zm2mlNxfktKVRnepmV -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDsp6Zm2mlNxfktKVRnepmV">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8FoOiw6juP4huNxaewo7kh"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gareth L. Powell</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2022</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1789094283</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Titan Books</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stars and Bones</dc:title>
+        <rdfs:label xml:lang="en">Stars and Bones by Gareth L. Powell</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RFVf6rTAtwoomFEBLqEOMZ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RFVf6rTAtwoomFEBLqEOMZ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB5xkqhfn8XhRglL3iIQaxz"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pierre Boulle</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345447980</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Del Rey</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Planet of the Apes</dc:title>
+        <rdfs:label xml:lang="en">Planet of the Apes by Pierre Boulle</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RVxP7QSNeb34kZEpffjzKO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RVxP7QSNeb34kZEpffjzKO">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBACxvPHACmGjbyPImi6tOr"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">William Golding</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140283331</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penguin Books</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lord of the Flies</dc:title>
+        <rdfs:label xml:lang="en">Lord of the Flies by William Golding</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RY4KzoVWhBFWx0gV26GMwO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RY4KzoVWhBFWx0gV26GMwO">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8FoOiw6juP4huNxaewo7kh"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christopher Ruocchio</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2022</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1473218357</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gollancz</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kingdoms of Death</dc:title>
+        <rdfs:label xml:lang="en">Kingdoms of Death by Christopher Ruocchio</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rj41zUjGXkzwobGvDZKNQ1 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rj41zUjGXkzwobGvDZKNQ1">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8FoOiw6juP4huNxaewo7kh"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Khan Wong</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2022</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">857669680</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Angry Robot Books</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Circus Infinite</dc:title>
+        <rdfs:label xml:lang="en">The Circus Infinite by Khan Wong</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RtnNN8srM88B4FlSSvjC9h -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RtnNN8srM88B4FlSSvjC9h">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8OgYXTRbWzbtmLkdeNcRxB"/>
+        <rdfs:label xml:lang="en">Science Fiction Genre</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RvzbeRQGncodyksx4lw8ge -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RvzbeRQGncodyksx4lw8ge">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RtnNN8srM88B4FlSSvjC9h"/>
+        <rdfs:label xml:lang="en">Science Fiction Adventures</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RxUP5gMPsOxHEZ0ei6X8Qu -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RxUP5gMPsOxHEZ0ei6X8Qu">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBFKQ4vGANkCxWwUirQqNXc"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neal Stephenson</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">‎ 0553380958</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Random House Publishing Group</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snow Crash</dc:title>
+        <rdfs:label xml:lang="en">Snow Crash by Neal Stephenson</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.amazon.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RyrHcRNGDXo0j4sR1XQY1Y -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RyrHcRNGDXo0j4sR1XQY1Y">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB5xkqhfn8XhRglL3iIQaxz"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Douglas Adams</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345391802</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Del Rey</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Hitchhiker&apos;s Guide to the Galaxy</dc:title>
+        <rdfs:label xml:lang="en">The Hitchhiker&apos;s Guide to the Galaxy by Douglas Adams</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
