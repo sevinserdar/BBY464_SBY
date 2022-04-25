@@ -85,6 +85,23 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/R7RhxMfslS3YNkpcBIv9tHn -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7RhxMfslS3YNkpcBIv9tHn">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBFKQ4vGANkCxWwUirQqNXc"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bruce Sterling</dc:creator>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">William Gibson</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60539828</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harper Voyager</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Burning Chrome</dc:title>
+        <rdfs:label xml:lang="en">Burning Chrome by William Gibson and Bruce Sterling</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com/"/>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/R7mbsODIYm6aTSR5Nhxw9r4 -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/R7mbsODIYm6aTSR5Nhxw9r4">
@@ -97,6 +114,38 @@
         <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Hunger Games</dc:title>
         <rdfs:label xml:lang="en">The Hunger Games by Suzanne Collins</rdfs:label>
         <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R87DOBodFdL4AzE2hoN2mJh -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R87DOBodFdL4AzE2hoN2mJh">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCkypxkixHw4S1b0tGlpK2w"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gene Wolfe</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1994</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312890176</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orb Books</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shadow &amp; Claw</dc:title>
+        <rdfs:label xml:lang="en">Shadow &amp; Claw by Gene Wolfe</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com/"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8EQctvuLBvC5HbKdsxfMIl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8EQctvuLBvC5HbKdsxfMIl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCkypxkixHw4S1b0tGlpK2w"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jack Vance</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1977</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">671831526</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pocket Books</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Dying Earth</dc:title>
+        <rdfs:label xml:lang="en">The Dying Earth by Jack Vance</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com/"/>
     </owl:Class>
     
 
@@ -146,6 +195,22 @@
         <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quicksilver</dc:title>
         <rdfs:label xml:lang="en">Quicksilver by Dean Koontz</rdfs:label>
         <rdfs:seeAlso rdf:resource="https://www.amazon.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9M62e9OeZTDaBrcX0fdHn4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9M62e9OeZTDaBrcX0fdHn4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBFKQ4vGANkCxWwUirQqNXc"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Walter Jon Williams</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1597800627</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Night Shade</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hardwired 1</dc:title>
+        <rdfs:label xml:lang="en">Hardwired by Walter Jon Williams</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com/"/>
     </owl:Class>
     
 
@@ -241,6 +306,15 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/RCkypxkixHw4S1b0tGlpK2w -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCkypxkixHw4S1b0tGlpK2w">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RtnNN8srM88B4FlSSvjC9h"/>
+        <rdfs:label xml:lang="en">Dying Earth Sci-Fi</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/RCmvBk8VrBbUaJXPXL0MsAl -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/RCmvBk8VrBbUaJXPXL0MsAl">
@@ -269,6 +343,22 @@
         <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dune</dc:title>
         <rdfs:label xml:lang="en">Dune by Frank Herbert</rdfs:label>
         <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDQa92YMOGKDGBfUDBU2qNR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDQa92YMOGKDGBfUDBU2qNR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCkypxkixHw4S1b0tGlpK2w"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jack Vance</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1977</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">671832921</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pocket</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Eyes of the Overworld</dc:title>
+        <rdfs:label xml:lang="en">The Eyes of the Overworld by Jack Vance</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com/"/>
     </owl:Class>
     
 
@@ -305,6 +395,22 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/RDyUaFS86YYiR01PwzATRv7 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDyUaFS86YYiR01PwzATRv7">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBFKQ4vGANkCxWwUirQqNXc"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">William Gibson</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">441013678</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ace Books</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Count Zero</dc:title>
+        <rdfs:label xml:lang="en">Count Zero by William Gibson</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com/"/>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/RFVf6rTAtwoomFEBLqEOMZ -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/RFVf6rTAtwoomFEBLqEOMZ">
@@ -317,6 +423,39 @@
         <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Planet of the Apes</dc:title>
         <rdfs:label xml:lang="en">Planet of the Apes by Pierre Boulle</rdfs:label>
         <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RKPuJCoVW38DJVgXsTmn2M -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RKPuJCoVW38DJVgXsTmn2M">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBFKQ4vGANkCxWwUirQqNXc"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neil Gaiman</dc:creator>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pat Cadigan</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1568581858</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thunder&apos;s Mouth Press</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Synners</dc:title>
+        <rdfs:label xml:lang="en">Synners by Pat Cadigan and Neil Gaiman</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com/"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RRH4iPv6H70f4OcyixxhoX -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RRH4iPv6H70f4OcyixxhoX">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCkypxkixHw4S1b0tGlpK2w"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jack Vance</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312874561</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orb</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Dying Earth / The Eyes of the Overworld / Cugel&apos;s Saga / Rhialto the Marvellous</dc:title>
+        <rdfs:label xml:lang="en">Tales of the Dying Earth by Jack Vance</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com/"/>
     </owl:Class>
     
 
@@ -349,6 +488,22 @@
         <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kingdoms of Death</dc:title>
         <rdfs:label xml:lang="en">Kingdoms of Death by Christopher Ruocchio</rdfs:label>
         <rdfs:seeAlso rdf:resource="https://www.goodreads.com"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RdO1ybssl506KSDyiyf0Ok -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RdO1ybssl506KSDyiyf0Ok">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCkypxkixHw4S1b0tGlpK2w"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gene Wolfe</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1984</dc:date>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">671540661</dc:identifier>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pocket Books</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Shadow of the Torturer</dc:title>
+        <rdfs:label xml:lang="en">The Shadow of the Torturer by Gene Wolfe</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://www.goodreads.com/"/>
     </owl:Class>
     
 
